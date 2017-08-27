@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="sixjia"
+  id="myeclipse.1503819389613"
+  context-root="/sixjia"
+  j2ee-spec="6.0"
+  archive="sixjia.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
